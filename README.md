@@ -2,17 +2,19 @@
 大三下算法设计与分析课程设计
 
 #### 1. 递归与分治策略
-&emsp;&emsp;1.1. 大整数的乘法
+&emsp;&emsp;1.1. 二分搜索技术
 
-&emsp;&emsp;1.2. Strassen 矩阵乘法
+&emsp;&emsp;1.2. 大整数的乘法
 
-&emsp;&emsp;1.3. 棋盘覆盖
+&emsp;&emsp;1.3. Strassen 矩阵乘法
 
-&emsp;&emsp;1.4. 合并排序
+&emsp;&emsp;1.4. 棋盘覆盖
 
-&emsp;&emsp;1.5. 快速排序
+&emsp;&emsp;1.5. 合并排序
 
-&emsp;&emsp;1.6. 线性时间选择
+&emsp;&emsp;1.6. 快速排序
+
+&emsp;&emsp;1.7. 线性时间选择
 
 #### 2. 动态规划
 
