@@ -66,11 +66,7 @@
 
 &emsp;&emsp;5.4. 0-1 背包问题
 
-&emsp;&emsp;5.5. 最大团问题
+&emsp;&emsp;5.5. TSP 问题
 
-&emsp;&emsp;5.6. TSP 问题
 
-&emsp;&emsp;5.7. 电路板排列问题
-
-&emsp;&emsp;5.8. 批作业处理调度
 
