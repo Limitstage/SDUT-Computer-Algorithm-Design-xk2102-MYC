@@ -47,23 +47,14 @@
 
 &emsp;&emsp;4.2. 批处理作业调度
 
-&emsp;&emsp;4.3. 符号三角形问题
+&emsp;&emsp;4.3. N 后问题
 
-&emsp;&emsp;4.5. N 后问题
+&emsp;&emsp;4.5. 0-1 背包问题
 
-&emsp;&emsp;4.6. 0-1 背包问题
+&emsp;&emsp;4.6. 最大团问题
 
-&emsp;&emsp;4.7. 最大团问题
+&emsp;&emsp;4.7. 图 m 着色问题
 
-&emsp;&emsp;4.8. 图 m 着色问题
-
-&emsp;&emsp;4.9. TSP 问题
-
-&emsp;&emsp;4.10. 圆排列问题
-
-&emsp;&emsp;4.11. 电路板排列问题
-
-&emsp;&emsp;4.12. 连续邮资问题
 
 #### 5. 分支限界法
 
