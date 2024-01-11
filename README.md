@@ -26,29 +26,20 @@
 
 &emsp;&emsp;2.4. 电路布线
 
-&emsp;&emsp;2.5. 流水作业调度
+&emsp;&emsp;2.5. 0-1 背包问题 
 
-&emsp;&emsp;2.6. 0-1 背包问题
+&emsp;&emsp;2.6. 最优二叉搜索树
 
-&emsp;&emsp;2.7. 最优二叉搜索树
 
 #### 3. 贪心算法
 
 &emsp;&emsp;3.1. 活动安排问题
 
-&emsp;&emsp;3.2. 最优装载
+&emsp;&emsp;3.2. TSP最邻近问题
 
-&emsp;&emsp;3.3. 哈夫曼编码
+&emsp;&emsp;3.3. 多机调度问题
 
-&emsp;&emsp;3.4. 前缀码
-
-&emsp;&emsp;3.5. 构造哈夫曼编码
-
-&emsp;&emsp;3.6. 单源最短路径
-
-&emsp;&emsp;3.7. 最小生成树
-
-&emsp;&emsp;3.8. 多机调度问题
+&emsp;&emsp;3.4. 图着色问题
 
 #### 4. 回溯法
 
