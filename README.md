@@ -6,15 +6,15 @@
 
 &emsp;&emsp;1.2. 大整数的乘法
 
-&emsp;&emsp;1.3. Strassen 矩阵乘法
+&emsp;&emsp;1.3. Fibonacci序列
 
 &emsp;&emsp;1.4. 棋盘覆盖
 
-&emsp;&emsp;1.5. 合并排序
+&emsp;&emsp;1.5. 合并排序（归并排序）
 
 &emsp;&emsp;1.6. 快速排序
 
-&emsp;&emsp;1.7. 线性时间选择
+&emsp;&emsp;1.7. 汉诺塔问题
 
 #### 2. 动态规划
 
@@ -22,19 +22,15 @@
 
 &emsp;&emsp;2.2. 最长公共子序列
 
-&emsp;&emsp;2.3. 凸多边形最优三角剖分
+&emsp;&emsp;2.3. 多边形游戏
 
-&emsp;&emsp;2.4. 多边形游戏
+&emsp;&emsp;2.4. 电路布线
 
-&emsp;&emsp;2.5. 图像压缩
+&emsp;&emsp;2.5. 流水作业调度
 
-&emsp;&emsp;2.6. 电路布线
+&emsp;&emsp;2.6. 0-1 背包问题
 
-&emsp;&emsp;2.7. 流水作业调度
-
-&emsp;&emsp;2.8. 0-1 背包问题
-
-&emsp;&emsp;2.9. 最优二叉搜索树
+&emsp;&emsp;2.7. 最优二叉搜索树
 
 #### 3. 贪心算法
 
