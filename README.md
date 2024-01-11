@@ -1,6 +1,8 @@
 # SDUT-Computer-Algorithm-Design-xk2102-MYC
 大三下算法设计与分析课程设计
 
+##### [用lightly打开](https://a2174d5c.lightly.teamcode.com/)
+
 #### 1. 递归与分治策略
 &emsp;&emsp;1.1. 二分搜索技术
 
