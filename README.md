@@ -6,15 +6,15 @@
 
 &emsp;&emsp;1.2. 大整数的乘法
 
-&emsp;&emsp;1.3. Strassen 矩阵乘法
+&emsp;&emsp;1.3. Fibonacci序列
 
 &emsp;&emsp;1.4. 棋盘覆盖
 
-&emsp;&emsp;1.5. 合并排序
+&emsp;&emsp;1.5. 合并排序（归并排序）
 
 &emsp;&emsp;1.6. 快速排序
 
-&emsp;&emsp;1.7. 线性时间选择
+&emsp;&emsp;1.7. 汉诺塔问题
 
 #### 2. 动态规划
 
@@ -22,37 +22,24 @@
 
 &emsp;&emsp;2.2. 最长公共子序列
 
-&emsp;&emsp;2.3. 凸多边形最优三角剖分
+&emsp;&emsp;2.3. 多边形游戏
 
-&emsp;&emsp;2.4. 多边形游戏
+&emsp;&emsp;2.4. 电路布线
 
-&emsp;&emsp;2.5. 图像压缩
+&emsp;&emsp;2.5. 0-1 背包问题 
 
-&emsp;&emsp;2.6. 电路布线
+&emsp;&emsp;2.6. 最优二叉搜索树
 
-&emsp;&emsp;2.7. 流水作业调度
-
-&emsp;&emsp;2.8. 0-1 背包问题
-
-&emsp;&emsp;2.9. 最优二叉搜索树
 
 #### 3. 贪心算法
 
 &emsp;&emsp;3.1. 活动安排问题
 
-&emsp;&emsp;3.2. 最优装载
+&emsp;&emsp;3.2. TSP最邻近问题
 
-&emsp;&emsp;3.3. 哈夫曼编码
+&emsp;&emsp;3.3. 多机调度问题
 
-&emsp;&emsp;3.4. 前缀码
-
-&emsp;&emsp;3.5. 构造哈夫曼编码
-
-&emsp;&emsp;3.6. 单源最短路径
-
-&emsp;&emsp;3.7. 最小生成树
-
-&emsp;&emsp;3.8. 多机调度问题
+&emsp;&emsp;3.4. 图着色问题
 
 #### 4. 回溯法
 
@@ -60,23 +47,14 @@
 
 &emsp;&emsp;4.2. 批处理作业调度
 
-&emsp;&emsp;4.3. 符号三角形问题
+&emsp;&emsp;4.3. N 后问题
 
-&emsp;&emsp;4.5. N 后问题
+&emsp;&emsp;4.5. 0-1 背包问题
 
-&emsp;&emsp;4.6. 0-1 背包问题
+&emsp;&emsp;4.6. 最大团问题
 
-&emsp;&emsp;4.7. 最大团问题
+&emsp;&emsp;4.7. 图 m 着色问题
 
-&emsp;&emsp;4.8. 图 m 着色问题
-
-&emsp;&emsp;4.9. TSP 问题
-
-&emsp;&emsp;4.10. 圆排列问题
-
-&emsp;&emsp;4.11. 电路板排列问题
-
-&emsp;&emsp;4.12. 连续邮资问题
 
 #### 5. 分支限界法
 
@@ -88,11 +66,7 @@
 
 &emsp;&emsp;5.4. 0-1 背包问题
 
-&emsp;&emsp;5.5. 最大团问题
+&emsp;&emsp;5.5. TSP 问题
 
-&emsp;&emsp;5.6. TSP 问题
 
-&emsp;&emsp;5.7. 电路板排列问题
-
-&emsp;&emsp;5.8. 批作业处理调度
 
